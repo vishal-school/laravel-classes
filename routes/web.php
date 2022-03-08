@@ -72,4 +72,4 @@ Route::get('anyview/{id}/{name}', function ($id, $name) {
 Route::get('age/{age}', function ($age) {
     return "ok php ";
 });
-Route::get('age/{age} ', [BusinessmanController::class, 'age']); 
+Route::get('age/{age} ', [BusinessmanController::class, 'ageage']); 

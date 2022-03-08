@@ -79,7 +79,7 @@ class BusinessmanController extends Controller
          //businessman::where('S_id',$id)->delete();
          return "Your Message delete Successfully . $id ";
     }
-                public function age($id)
+                public function ageage($id)
           {
                   return "Your Message delete Successfully . $id ";
           }
